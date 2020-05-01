@@ -1,0 +1,78 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body{
+    font-family: 'Nunito', sans-serif;
+
+}
+
+#container1{
+  background-color: #7fca8f;
+  color:#FFFFFF;
+  width:75%;
+}
+.green{
+  background-color:#7fca8f;
+  border:10px;
+  color:#FFFFFF;
+}
+.fa{
+  margin-right:7px;
+}
+#gov{
+  font-weight: 600;
+
+}
+#name{
+  font-size: 22px;
+  font-weight: 600;
+    letter-spacing: 1px;
+}
+#phone{
+  letter-spacing: 1.5px;
+  margin-top: -12px;
+  font-size: 18px;
+
+
+}
+#phone-link{
+  color:#0556a9;
+   font-weight: 900;
+   font-size: 18px;
+
+
+}
+#adhar{
+letter-spacing: 1px;
+font-weight:900;
+font-size: 18px;
+
+}
+
+#car{
+letter-spacing: 1px;
+font-weight:900;
+font-size: 18px;
+
+}
+
+#city{
+letter-spacing: 1px;
+font-weight:900
+}
+#dest{
+  letter-spacing: 1px;
+  font-weight:900;
+  font-size: 18px;
+
+}
+
+#destlink{
+color:#0556a9;
+}
+#interdist{
+  background-color: #7fca8f;
+  color:#FFFFFF;
+  width:75%;
+
+}
